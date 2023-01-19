@@ -1,0 +1,23 @@
+.input{
+    height: 38px;
+    width: 600px;
+    border-radius: 8px;
+    border-color: white;
+    padding-left: 12px;
+}
+
+.field{
+    margin-top: 12px;
+}
+
+.btn__save{
+    height: 30px;
+    width: 75px;
+    color: white;
+    border-radius: 5px;
+    background-color: #4379d1;
+}
+
+.field p{
+    font-weight: bold;
+}
